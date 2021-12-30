@@ -1,0 +1,1 @@
+# Dummy-Variable-for-Examining-Structural-Instability-in-Regression-An-Alternative-to-Chow-Test
